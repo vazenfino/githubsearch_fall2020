@@ -1,0 +1,20 @@
+.nav_bar{
+  padding: 20px;
+  background-color: #0366D6
+}
+.full{
+  background-color: #F1F8FF;
+}
+.text_for_header{
+  color: #F1F8FF;
+}
+.search{
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+}
